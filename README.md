@@ -19,7 +19,7 @@ Each guide has an end-to-end architecture diagram (also available standalone):
 
 | Diagram | Vector (SVG) | High-res (PNG) |
 |---|---|---|
-| Classic ML — Churn | [`diagram-classic-ml-churn.svg`](./img/diagram-classic-ml-churn.svg) | [`./img/diagram-classic-ml-churn@3x.png`](./diagram-classic-ml-churn@3x.png) |
+| Classic ML — Churn | [`diagram-classic-ml-churn.svg`](./img/diagram-classic-ml-churn.svg) | [`diagram-classic-ml-churn@3x.png`](./img/diagram-classic-ml-churn@3x.png) |
 | GenAI — RAG | [`diagram-genai-rag.svg`](./img/diagram-genai-rag.svg) | [`diagram-genai-rag@3x.png`](./img/diagram-genai-rag@3x.png) |
 
 Use **SVG** for slides/print (sharp at any zoom); use the **@3x PNG** anywhere raster is needed.
@@ -37,5 +37,5 @@ Use **SVG** for slides/print (sharp at any zoom); use the **@3x PNG** anywhere r
 
 ## Also available as PDF Docs
 
-- **GenAI RAG :** [`Databricks MLflow — GenAI RAG Lifecycle (Knowledge Assistant).pdf`](./pdf/Databricks MLflow — GenAI RAG Lifecycle%28Knowledge Assistant%29.pdf)
-- **Classic ML:** [`Databricks MLflow — Classic ML Lifecycle (Customer Churn).pdf`](./pdf/Databricks MLflow — Classic ML Lifecycle%28Customer Churn%29.pdf)
+- **GenAI RAG :** [`Databricks MLflow — GenAI RAG Lifecycle (Knowledge Assistant).pdf`](./pdf/Databricks%20MLflow%20—%20GenAI%20RAG%20Lifecycle%20%28Knowledge%20Assistant%29.pdf)
+- **Classic ML:** [`Databricks MLflow — Classic ML Lifecycle (Customer Churn).pdf`](./pdf/Databricks%20MLflow%20—%20Classic%20ML%20Lifecycle%20%28Customer%20Churn%29.pdf)
