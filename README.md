@@ -19,8 +19,8 @@ Each guide has an end-to-end architecture diagram (also available standalone):
 
 | Diagram | Vector (SVG) | High-res (PNG) |
 |---|---|---|
-| Classic ML — Churn | `diagram-classic-ml-churn.svg` | `diagram-classic-ml-churn@3x.png` |
-| GenAI — RAG | `diagram-genai-rag.svg` | `diagram-genai-rag@3x.png` |
+| Classic ML — Churn | [`diagram-classic-ml-churn.svg`](./diagram-classic-ml-churn.svg) | [`diagram-classic-ml-churn@3x.png`](./diagram-classic-ml-churn@3x.png) |
+| GenAI — RAG | [`diagram-genai-rag.svg`](./diagram-genai-rag.svg) | [`diagram-genai-rag@3x.png`](./diagram-genai-rag@3x.png) |
 
 Use **SVG** for slides/print (sharp at any zoom); use the **@3x PNG** anywhere raster is needed.
 
