@@ -35,7 +35,7 @@ Use **SVG** for slides/print (sharp at any zoom); use the **@3x PNG** anywhere r
 3. Follow the sections in order for a first project; return to individual sections as a reference later.
 4. Adapt the code blocks — they're faithful, teaching-oriented patterns; verify the newest API signatures against current Databricks docs before running.
 
-## Also available as Google Docs
+## Also available as PDF Docs
 
-- **Classic ML:** https://docs.google.com/document/d/1AII6eMlzV3rwUWDUtTqnpt_Hf0WRKv1xsbzXXTWOuLw/edit
-- **GenAI RAG:** https://docs.google.com/document/d/1lF-00nAEvHieABXWUqxIGK6nsjwKY1NTXTB5t3jnKFc/edit
+- **Classic ML:** [`Databricks MLflow — GenAI RAG Lifecycle (Knowledge Assistant).pdf`](./Databricks MLflow — GenAI RAG Lifecycle (Knowledge Assistant).pdf)
+- **GenAI RAG:** [`Databricks MLflow — Classic ML Lifecycle (Customer Churn).pdf`](./Databricks MLflow — Classic ML Lifecycle (Customer Churn).pdf)
