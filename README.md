@@ -31,9 +31,8 @@ Use **SVG** for slides/print (sharp at any zoom); use the **@3x PNG** anywhere r
 ## How to use these
 
 1. Pick the guide matching your project (classic ML or GenAI).
-2. Skim §0 (the mental model) and the one-page checklist at the end.
-3. Follow the sections in order for a first project; return to individual sections as a reference later.
-4. Adapt the code blocks — they're faithful, teaching-oriented patterns; verify the newest API signatures against current Databricks docs before running.
+2. Follow the sections in order for a first project; return to individual sections as a reference later.
+3. Adapt the code blocks — they're faithful, teaching-oriented patterns; verify the newest API signatures against current Databricks docs before running.
 
 ## Also available as PDF Docs
 
