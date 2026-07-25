@@ -37,5 +37,5 @@ Use **SVG** for slides/print (sharp at any zoom); use the **@3x PNG** anywhere r
 
 ## Also available as PDF Docs
 
-- **Classic ML:** [`Databricks MLflow — GenAI RAG Lifecycle (Knowledge Assistant).pdf`](.Databricks MLflow — RAG Lifecycle (Knowledge Assistant).pdf)
-- **GenAI RAG:** [`Databricks MLflow — Classic ML Lifecycle (Customer Churn).pdf`](./Databricks MLflow — Classic ML Lifecycle (Customer Churn).pdf)
+- **GenAI RAG :** [`Databricks MLflow — GenAI RAG Lifecycle (Knowledge Assistant).pdf`]
+- **Classic ML:** [`Databricks MLflow — Classic ML Lifecycle (Customer Churn).pdf`]
